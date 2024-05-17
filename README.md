@@ -4,8 +4,8 @@ This repository includes all relevant custom R scripts and associated configurat
 # Input data
 All raw MCD files and fully annotated data frames ("backup_output.rds" and "backup_output_P010.rds") are available on "zenodo link". 
 The fully annotated data frames can be loaded onto the R script to generate the published figures in the manuscript. 
-In `Config`, there is a metadata, panel, merge (annotation), and area file necessary to generate the heatmaps for the entire clinical dataset (Figure 2C).
-In `Config (P010)`, there is a metadata, panel, merge (annotation), area, and timegroup area file necessary to generate the density plot for P010 only (Supplementary Figure 3B).
+In `Config`, there is a metadata, panel, merge (annotation), and area file necessary to generate the heatmaps and other plots for the entire clinical dataset (Figure 2C).
+In `Config (P010)`, there is a metadata, panel, merge (annotation), area, and timegroup area file necessary to generate the heatmaps and density plot for P010 only (Supplementary Figure 3B).
 
 # R scripts
 Scripts stored in `Rscripts` need to be run in numerical order. 
