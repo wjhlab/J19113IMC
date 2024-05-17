@@ -2,7 +2,7 @@
 This repository includes all relevant custom R scripts and associated configuration files for the imaging mass cytometry analysis of the J19113 clinical trial in "A phase 2 trial of CXCR4 antagonist AMD3100 and PD1 inhibitor cemiplimab in metastatic pancreatic adenocarcinoma reveals increased tumor-infiltrating T cells but also immunosuppressive macrophages".
 
 # Input data
-All raw MCD files and fully annotated data frames ("backup_output.rds" and "backup_output_P010.rds") are available on "zenodo link". 
+All raw MCD files and fully annotated data frames ("backup_output.rds" and "backup_output_P010.rds") are available at 10.5281/zenodo.11122889. 
 The fully annotated data frames can be loaded onto the R script to generate the published figures in the manuscript. 
 In `Config`, there is a metadata, panel, merge (annotation), and area file necessary to generate the heatmaps and other plots for the entire clinical dataset (Figure 2).
 In `Config (P010)`, there is a metadata, panel, merge (annotation), area, and timegroup area file necessary to generate the heatmaps and density plot for P010 only (Supplementary Figure 3).
