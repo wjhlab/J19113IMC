@@ -1,5 +1,5 @@
 # Overview
-This repository includes all relevant custom R scripts and associated configuration files for the imaging mass cytometry analysis of the J19113 clinical trial in "A phase 2 trial of CXCR4 antagonist AMD3100 and PD1 inhibitor cemiplimab in metastatic pancreatic adenocarcinoma reveals increased tumor-infiltrating T cells but also immunosuppressive macrophages".
+This repository includes all relevant custom R scripts and associated configuration files for the imaging mass cytometry analysis of the J19113 clinical trial in "A phase 2 trial of CXCR4 antagonism and PD1 inhibition in metastatic pancreatic adenocarcinoma reveals recruitment of T cells but also immunosuppressive macrophages".
 
 # Input data
 All raw MCD files and fully annotated data frames ("backup_output.rds" and "backup_output_P010.rds") are available at 10.5281/zenodo.11122889. 
